@@ -1275,4 +1275,5 @@ footer .container .copyright {
 footer .container .copyright span {
     color: var(--main-color);
     font-weight: bold;
+    cursor: pointer;
 }
