@@ -722,6 +722,7 @@ header .container .form i {
     content: '';
     position: absolute;
     bottom: -40px;
+    left: 0;
     width: 100%;
     height: 1px;
     background-color: var(--p-color);
