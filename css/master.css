@@ -366,6 +366,7 @@ header .container .form i {
     position: relative;
     background-color: #1f2021;
     background-image: url('../images/design.png');
+    background-attachment: fixed;
     background-size: cover;
     display: flex;
     align-items: center;
@@ -597,6 +598,7 @@ header .container .form i {
     width: 100%;
     background-color:rgb(10, 9, 9);
     background-image: url('../images/alien-blue-3840x2160.jpg');
+    background-attachment: fixed;
     background-size: cover;
     z-index: 2;
     padding: 80px 1em;
@@ -867,6 +869,7 @@ header .container .form i {
     background-color:rgb(10, 9, 9);
     background-image: url('../images/marek-piwnicki-nmNgZC7ogqE-unsplash.jpg');
     background-size: cover;
+    background-attachment: fixed;
     text-align: center;
     position: relative;
     padding: var(--padding-section) 0;
@@ -1036,6 +1039,7 @@ header .container .form i {
     width: 100%;
     background-color: rgb(10, 9, 9);
     background-image: url("../images/Earth-Surface-4K-Wallpaper.jpg");
+    background-attachment: fixed;
     background-size: cover;
     position: relative;
 }
@@ -1209,6 +1213,7 @@ footer {
     background-color: rgb(10, 9, 9);
     background-image: url("../images/Earth-Surface-4K-Wallpaper.jpg");
     background-size: cover;
+    background-attachment: fixed;
     position: relative;
 }
 
